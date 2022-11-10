@@ -1,5 +1,5 @@
 {
- "simple": ["donasi","sticker","owner","afk","toimg","script","confes","report"],
+ "simple": ["sticker","owner","afk","toimg","confes","report"],
  "group": ["antilink","welcome","revoke","linkgrup","locked","unlocked","opengroup","closegroup","setdeks","setsubject","demote","promote","add","kick","kicktime","delete"],
  "owner": ["updatestatus","setnamabot","getpp","block","unblock","creategroup","plusstar","minusstar","dellimage","dellvideo","dellsticker","dellaudio"],
  "textpro1": ["technology","cuttext","neonlight","thundertext","transformer","sketchtext","lighttext","giraffetext","glasstext","signtext","juicetext","typography","potterytext","comictext","ruststyle"],
